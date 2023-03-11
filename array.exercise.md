@@ -105,13 +105,7 @@ document.write(newarr)
 ```
  Question 17 Create an array with four elements and use the while loop to calculate the sum of all elements.
 ```
-let arr17 = [1,2,3,4];
-let sum =0;
 
-for(var i=0; i<arr17.length; i++){
-    sum+=arr17[i]
-}
-document.write(sum)
 ```
 
  Question 18 Create an array with five elements and use the filter method to return only the even numbers.
