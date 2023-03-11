@@ -89,11 +89,11 @@ Question 14 Create an array with five elements and find the index of a specific 
  document.write(arr14.indexOf("two"))
  ```
  Question 15 Create an array with six elements and slice the array to create a new array with the first three elements.
-               ```
-               let arr15 = ["one" ,"two" ,"three", "four","five", "six"];
-                let newarr = arr15.slice(0,3);
-                document.write(newarr)
-                ```
+   ```
+    let arr15 = ["one" ,"two" ,"three", "four","five", "six"];
+    let newarr = arr15.slice(0,3);
+    document.write(newarr)
+   ```
  Question 16 Create an array with six elements and use the map method to double each element.
 ``` 
 let arr16 = [1,2,3,4,5,6];
